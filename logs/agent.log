@@ -1,0 +1,1816 @@
+2025-04-18 23:26:15,048 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:15,048 | INFO | GeminiAgent | Prompt added for key: friendly.
+2025-04-18 23:26:15,048 | INFO | GeminiAgent | Switched to prompt: friendly.
+2025-04-18 23:26:16,025 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:16,025 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:26:16,025 | INFO | GeminiAgent | Conversation history cleared.
+2025-04-18 23:26:16,863 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:18,866 | INFO | GeminiAgent | User input processed successfully.
+2025-04-18 23:26:19,744 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:19,747 | INFO | GeminiAgent | Memory limit set to 10 messages.
+2025-04-18 23:26:20,537 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:20,537 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:26:20,537 | INFO | GeminiAgent | Conversation history cleared.
+2025-04-18 23:26:20,537 | INFO | GeminiAgent | Memory toggled to OFF.
+2025-04-18 23:26:21,393 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:21,393 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:26:21,396 | INFO | GeminiAgent | Memory saved to tests/test_memory.json.
+2025-04-18 23:26:21,411 | INFO | GeminiAgent | Memory loaded from tests/test_memory.json.
+2025-04-18 23:26:22,392 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:22,392 | INFO | GeminiAgent | System prompt updated.
+2025-04-18 23:26:23,179 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:23,179 | INFO | GeminiAgent | Streaming toggled to ON.
+2025-04-18 23:26:23,980 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:23,980 | INFO | GeminiAgent | Temperature set to 0.7.
+2025-04-18 23:26:24,726 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:26:24,726 | INFO | GeminiAgent | topP set to 0.8.
+2025-04-18 23:27:13,303 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:27:13,303 | INFO | GeminiAgent | System prompt updated.
+2025-04-18 23:27:13,304 | INFO | GeminiAgent | Prompt added for key: friendly.
+2025-04-18 23:27:13,304 | INFO | GeminiAgent | Switched to prompt: friendly.
+2025-04-18 23:27:13,304 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:27:13,304 | INFO | GeminiAgent | Memory limit set to 5 messages.
+2025-04-18 23:27:13,304 | INFO | GeminiAgent | Temperature set to 0.5.
+2025-04-18 23:27:13,305 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-18 23:27:13,305 | INFO | GeminiAgent | topK set to 3.
+2025-04-18 23:27:13,305 | INFO | GeminiAgent | Max output tokens set to 200.
+2025-04-18 23:27:13,305 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-04-18 23:27:13,305 | INFO | GeminiAgent | Debug mode enabled.
+2025-04-18 23:27:13,307 | INFO | GeminiAgent | Memory saved to memory.json.
+2025-04-18 23:27:13,307 | INFO | GeminiAgent | Conversation history cleared.
+2025-04-18 23:27:13,333 | INFO | GeminiAgent | Memory loaded from memory.json.
+2025-04-18 23:27:13,333 | INFO | GeminiAgent | Custom stream callback set.
+2025-04-18 23:27:16,474 | INFO | GeminiAgent | User input processed successfully.
+2025-04-18 23:27:16,478 | INFO | GeminiAgent | Memory saved to final_memory.json.
+2025-04-18 23:29:34,613 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:29:34,614 | INFO | GeminiAgent | System prompt updated.
+2025-04-18 23:29:34,615 | INFO | GeminiAgent | Prompt added for key: friendly.
+2025-04-18 23:29:34,615 | INFO | GeminiAgent | Switched to prompt: friendly.
+2025-04-18 23:29:34,616 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:29:34,616 | INFO | GeminiAgent | Memory limit set to 5 messages.
+2025-04-18 23:29:34,619 | INFO | GeminiAgent | Temperature set to 0.5.
+2025-04-18 23:29:34,619 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-18 23:29:34,619 | INFO | GeminiAgent | topK set to 3.
+2025-04-18 23:29:34,619 | INFO | GeminiAgent | Max output tokens set to 200.
+2025-04-18 23:29:34,622 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-04-18 23:29:34,625 | INFO | GeminiAgent | Debug mode enabled.
+2025-04-18 23:31:07,992 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-18 23:31:07,996 | INFO | GeminiAgent | System prompt updated.
+2025-04-18 23:31:08,001 | INFO | GeminiAgent | Prompt added for key: friendly.
+2025-04-18 23:31:08,002 | INFO | GeminiAgent | Switched to prompt: friendly.
+2025-04-18 23:31:08,006 | INFO | GeminiAgent | Memory toggled to ON.
+2025-04-18 23:31:08,006 | INFO | GeminiAgent | Memory limit set to 5 messages.
+2025-04-18 23:31:08,016 | INFO | GeminiAgent | Temperature set to 0.5.
+2025-04-18 23:31:08,016 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-18 23:31:08,016 | INFO | GeminiAgent | topK set to 3.
+2025-04-18 23:31:08,016 | INFO | GeminiAgent | Max output tokens set to 200.
+2025-04-18 23:31:08,030 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-04-18 23:31:08,034 | INFO | GeminiAgent | Debug mode enabled.
+2025-04-18 23:31:08,040 | INFO | GeminiAgent | Memory saved to memory.json.
+2025-04-18 23:31:08,046 | INFO | GeminiAgent | Conversation history cleared.
+2025-04-18 23:31:08,054 | INFO | GeminiAgent | Memory loaded from memory.json.
+2025-04-18 23:31:08,061 | INFO | GeminiAgent | Custom stream callback set.
+2025-04-18 23:31:09,801 | INFO | GeminiAgent | User input processed successfully.
+2025-04-18 23:31:09,814 | INFO | GeminiAgent | Memory saved to final_memory.json.
+2025-04-19 12:24:14,325 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 12:42:56,670 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 12:42:56,671 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-19 12:42:56,671 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-19 12:42:56,672 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-19 12:42:56,672 | INFO | GeminiAgent | topK set to 1.
+2025-04-19 12:43:07,011 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:43:20,347 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:43:46,851 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:51:46,031 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-19 12:51:52,586 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 12:51:52,587 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-19 12:51:52,587 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-19 12:51:52,587 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-19 12:51:52,587 | INFO | GeminiAgent | topK set to 1.
+2025-04-19 12:51:57,633 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:52:06,274 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:52:31,523 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-19 12:52:33,989 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 12:52:33,990 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-19 12:52:33,990 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-19 12:52:33,990 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-19 12:52:33,991 | INFO | GeminiAgent | topK set to 1.
+2025-04-19 12:52:43,504 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:52:54,609 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:53:19,174 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:53:27,136 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:53:44,031 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:53:54,611 | ERROR | GeminiAgent | Error generating response: History must start with a user turn.
+Traceback (most recent call last):
+  File "D:\Specific Gemini Agent\agents\gemini_agent.py", line 165, in generate_response
+    chat = self.client.chats.create(
+        model=self.model_name,
+        history=sdk_history,
+        config=config,
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 366, in create
+    return Chat(
+        modules=self._modules,
+    ...<2 lines>...
+        history=history if history else [],
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 223, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        model=model,
+        ^^^^^^^^^^^^
+        config=config,
+        ^^^^^^^^^^^^^^
+        history=history,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 133, in __init__
+    self._curated_history = _extract_curated_history(content_models)
+                            ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 87, in _extract_curated_history
+    raise ValueError("History must start with a user turn.")
+ValueError: History must start with a user turn.
+
+2025-04-19 12:54:06,873 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:54:18,209 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:54:28,035 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:54:37,517 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:54:57,853 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 12:55:07,271 | ERROR | GeminiAgent | Error generating response: History must start with a user turn.
+Traceback (most recent call last):
+  File "D:\Specific Gemini Agent\agents\gemini_agent.py", line 165, in generate_response
+    chat = self.client.chats.create(
+        model=self.model_name,
+        history=sdk_history,
+        config=config,
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 366, in create
+    return Chat(
+        modules=self._modules,
+    ...<2 lines>...
+        history=history if history else [],
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 223, in __init__
+    super().__init__(
+    ~~~~~~~~~~~~~~~~^
+        model=model,
+        ^^^^^^^^^^^^
+        config=config,
+        ^^^^^^^^^^^^^^
+        history=history,
+        ^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 133, in __init__
+    self._curated_history = _extract_curated_history(content_models)
+                            ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 87, in _extract_curated_history
+    raise ValueError("History must start with a user turn.")
+ValueError: History must start with a user turn.
+
+2025-04-19 12:55:16,604 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 13:14:56,108 | INFO | GeminiAgent | Conversation loop interrupted by user (KeyboardInterrupt).
+2025-04-19 13:17:04,856 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 13:17:04,857 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-19 13:17:04,858 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-19 13:17:04,859 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-19 13:17:04,859 | INFO | GeminiAgent | topK set to 1.
+2025-04-19 13:17:11,222 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 13:17:19,231 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 13:17:23,080 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-19 13:17:31,465 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-19 13:17:31,465 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-19 13:17:31,466 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-19 13:17:31,466 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-19 13:17:31,466 | INFO | GeminiAgent | topK set to 1.
+2025-04-19 13:17:35,353 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 13:17:54,130 | INFO | GeminiAgent | User input processed successfully.
+2025-04-19 13:17:59,052 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:04:03,330 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:04:03,334 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:04:03,335 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:04:03,335 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:04:03,335 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:04:08,257 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:04:17,723 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:06:56,788 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:06:56,788 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:06:56,789 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:06:56,789 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:06:56,789 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:07:11,185 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:07:23,595 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:07:39,195 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:08:25,798 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:08:25,799 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:08:25,799 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:08:25,799 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:08:25,799 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:08:28,990 | ERROR | GeminiAgent | Error generating response: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': "Gemini 2.5 Pro Preview doesn't have a free quota tier. Please use Gemini 2.5 Pro Experimental (models/gemini-2.5.pro-exp-03-25) instead. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.", 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-pro-exp', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerDay-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}
+Traceback (most recent call last):
+  File "D:\Specific Gemini Agent\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+        model=self._model,
+        contents=self._curated_history + [input_content],  # type: ignore[arg-type]
+        config=config if config else self._config,
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+        model=model, contents=contents, config=config
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+        'post', path, request_dict, http_options
+    )
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python313\Lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': "Gemini 2.5 Pro Preview doesn't have a free quota tier. Please use Gemini 2.5 Pro Experimental (models/gemini-2.5.pro-exp-03-25) instead. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.", 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-pro-exp', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerDay-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '32s'}]}}
+
+2025-04-20 09:08:38,218 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:08:57,435 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:08:57,436 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:08:57,436 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:08:57,436 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:08:57,436 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:09:03,630 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:09:33,392 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:10:04,098 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:10:30,602 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:11:01,684 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:11:01,685 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:11:01,685 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:11:01,685 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:11:01,685 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:11:04,973 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:11:11,692 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-04-20 09:35:47,232 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-04-20 09:35:47,233 | INFO | GeminiAgent | Max output tokens set to 1024.
+2025-04-20 09:35:47,233 | INFO | GeminiAgent | Temperature set to 0.3.
+2025-04-20 09:35:47,233 | INFO | GeminiAgent | topP set to 0.9.
+2025-04-20 09:35:47,234 | INFO | GeminiAgent | topK set to 1.
+2025-04-20 09:35:51,019 | INFO | GeminiAgent | User input processed successfully.
+2025-04-20 09:36:08,047 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-05-18 07:43:06,520 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-05-18 07:43:06,530 | INFO | GeminiAgent | Memory toggled to ON.
+2025-05-18 07:43:06,530 | INFO | GeminiAgent | Memory limit set to 3 messages.
+2025-05-18 07:43:08,792 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:09,702 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:10,608 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:10,621 | INFO | GeminiAgent | Created chats directory at D:\IEssentials\Data Claening Automation\chats
+2025-05-18 07:43:10,622 | INFO | GeminiAgent | Memory saved to D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:43:10,622 | INFO | GeminiAgent | Conversation history cleared.
+2025-05-18 07:43:10,651 | INFO | GeminiAgent | Memory loaded from D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:43:11,139 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:11,150 | INFO | GeminiAgent | Streaming toggled to ON.
+2025-05-18 07:43:11,805 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 410, in generate_response
+    for chunk in chat.send_message_stream(user_input):
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 316, in send_message_stream
+    for chunk in self._modules.generate_content_stream(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5156, in generate_content_stream
+    for chunk in response:
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 4068, in _generate_content_stream
+    for response_dict in self._api_client.request_streamed(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 761, in request_streamed
+    session_response = self._request(http_request, stream=True)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 659, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:11,808 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-05-18 07:43:24,859 | ERROR | GeminiAgent | Error generating response: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 419, in generate_response
+    response_obj = chat.send_message(user_input)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 258, in send_message
+    response = self._modules.generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 5019, in generate_content
+    response = self._generate_content(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\models.py", line 3995, in _generate_content
+    response_dict = self._api_client.request(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 742, in request
+    response = self._request(http_request, stream=False)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\_api_client.py", line 671, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 404 NOT_FOUND. {'error': {'code': 404, 'message': 'models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.', 'status': 'NOT_FOUND'}}
+
+2025-05-18 07:43:36,821 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-05-18 07:45:16,374 | INFO | GeminiAgent | GeminiAgent initialized successfully.
+2025-05-18 07:45:16,378 | INFO | GeminiAgent | Memory toggled to ON.
+2025-05-18 07:45:16,379 | INFO | GeminiAgent | Memory limit set to 3 messages.
+2025-05-18 07:45:18,942 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:20,171 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:21,417 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:21,421 | INFO | GeminiAgent | Memory saved to D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:45:21,421 | INFO | GeminiAgent | Conversation history cleared.
+2025-05-18 07:45:21,437 | INFO | GeminiAgent | Memory loaded from D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:45:21,443 | ERROR | GeminiAgent | Error generating response: History must start with a user turn.
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 400, in generate_response
+    chat = self.client.chats.create(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 366, in create
+    return Chat(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 223, in __init__
+    super().__init__(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 133, in __init__
+    self._curated_history = _extract_curated_history(content_models)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 87, in _extract_curated_history
+    raise ValueError("History must start with a user turn.")
+ValueError: History must start with a user turn.
+
+2025-05-18 07:45:21,447 | INFO | GeminiAgent | Streaming toggled to ON.
+2025-05-18 07:45:24,890 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:24,891 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-05-18 07:45:32,302 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:43,813 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:45:51,722 | ERROR | GeminiAgent | Error generating response: History must start with a user turn.
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\gemini_agent.py", line 400, in generate_response
+    chat = self.client.chats.create(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 366, in create
+    return Chat(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 223, in __init__
+    super().__init__(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 133, in __init__
+    self._curated_history = _extract_curated_history(content_models)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\google\genai\chats.py", line 87, in _extract_curated_history
+    raise ValueError("History must start with a user turn.")
+ValueError: History must start with a user turn.
+
+2025-05-18 07:46:04,367 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:46:23,777 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:46:49,240 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-05-18 07:56:24,738 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 07:56:24,744 | INFO | GeminiAgent | Memory toggled to ON.
+2025-05-18 07:56:24,745 | INFO | GeminiAgent | Memory limit set to 3 messages.
+2025-05-18 07:56:27,312 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:56:29,556 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:56:32,336 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:56:32,341 | INFO | GeminiAgent | Memory saved to D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:56:32,342 | INFO | GeminiAgent | Conversation history cleared.
+2025-05-18 07:56:32,374 | INFO | GeminiAgent | Memory loaded from D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 07:56:35,650 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:56:35,658 | INFO | GeminiAgent | Streaming toggled to ON.
+2025-05-18 07:56:45,271 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 07:56:45,272 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-05-18 07:56:57,629 | INFO | GeminiAgent | Conversation loop terminated by user.
+2025-05-18 08:00:20,222 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 08:00:20,229 | INFO | GeminiAgent | Memory toggled to ON.
+2025-05-18 08:00:20,229 | INFO | GeminiAgent | Memory limit set to 3 messages.
+2025-05-18 08:00:23,250 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:00:25,568 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:00:28,515 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:00:28,521 | INFO | GeminiAgent | Memory saved to D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 08:00:28,522 | INFO | GeminiAgent | Conversation history cleared.
+2025-05-18 08:00:28,553 | INFO | GeminiAgent | Memory loaded from D:\IEssentials\Data Claening Automation\chats\test_conversation.json.
+2025-05-18 08:00:31,131 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:00:31,138 | INFO | GeminiAgent | Streaming toggled to ON.
+2025-05-18 08:00:40,250 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:00:40,251 | INFO | GeminiAgent | Streaming toggled to OFF.
+2025-05-18 08:00:40,254 | INFO | GeminiAgent | Memory toggled to ON.
+2025-05-18 08:00:40,255 | INFO | GeminiAgent | Memory limit set to 10 messages.
+2025-05-18 08:00:51,648 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:01:02,875 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:01:16,734 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:01:35,755 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:01:55,378 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:34:24,752 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 08:34:24,753 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 08:34:55,183 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 08:34:55,184 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 08:35:09,899 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:35:45,757 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:36:33,510 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:36:58,735 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 08:37:27,224 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:07:45,726 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:07:45,726 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:07:45,727 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:07:52,344 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:07:55,499 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:08:17,247 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:09:32,475 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:09:32,476 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:09:32,476 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:09:39,185 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:09:42,536 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:09:54,409 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:10:28,991 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:10:31,751 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:10:45,946 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:10:58,764 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:11:01,821 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:15:18,137 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:15:18,138 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:15:18,138 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:15:24,052 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:15:27,243 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:15:47,836 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:16:18,740 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:16:21,643 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:16:34,075 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:16:47,327 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:16:50,795 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:23:24,554 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:23:24,555 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:23:24,555 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:23:32,105 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:23:35,060 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:30:39,707 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:30:39,708 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:30:39,708 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 09:30:46,969 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:30:49,559 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:31:18,168 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:32:28,194 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 09:32:30,540 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:16:04,786 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:16:04,787 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:18:06,388 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:18:06,389 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:19:37,710 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:19:37,710 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:22:41,345 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:22:41,346 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:24:38,725 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:24:38,726 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:27:35,195 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:27:35,195 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:27:37,622 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:32:04,741 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:32:04,742 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:32:07,494 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:43:11,011 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:43:11,012 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:43:11,027 | INFO | DataCleaning | Initial data loaded successfully
+2025-05-18 10:43:14,164 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:43:14,313 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 10:44:39,915 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:44:39,915 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 10:44:39,945 | INFO | DataCleaning | Initial data loaded successfully
+2025-05-18 10:44:44,625 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:45:45,274 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:46:16,706 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 10:46:25,062 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 14:11:53,130 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:11:53,130 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:11:53,130 | INFO | DataCleaning | Agents initialized successfully
+2025-05-18 14:11:53,155 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 14:11:55,831 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:13:02,130 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:13:18,447 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:14:09,761 | INFO | DataCleaning | Data cleaning completed
+2025-05-18 14:14:09,797 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 14:14:09,803 | INFO | DataCleaning | Step 1: No cleaning or preprocessing steps are needed as there are no null values in any column.
+2025-05-18 14:25:42,153 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:25:42,154 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:25:42,154 | INFO | DataCleaning | Agents initialized successfully
+2025-05-18 14:25:42,168 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 14:25:54,879 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:33:21,597 | INFO | DataCleaning | Data cleaning completed
+2025-05-18 14:33:21,628 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 14:33:26,039 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:33:26,039 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:33:26,039 | INFO | DataCleaning | Agents initialized successfully
+2025-05-18 14:33:26,054 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 14:33:28,082 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:33:43,649 | INFO | DataCleaning | Data cleaning completed
+2025-05-18 14:33:43,672 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 14:36:08,032 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:36:08,033 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:36:08,033 | INFO | DataCleaning | Agents initialized successfully
+2025-05-18 14:36:08,049 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 14:36:09,870 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:36:16,476 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:36:30,531 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:36:43,984 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:36:52,835 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:03,498 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:09,947 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:20,986 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:37,188 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:48,220 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:37:53,552 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:38:01,587 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:38:09,356 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:38:13,533 | INFO | DataCleaning | Data cleaning completed
+2025-05-18 14:38:13,564 | INFO | DataCleaning | Cleaned data saved to: cleaned_data.csv
+2025-05-18 14:38:13,567 | INFO | DataCleaning | Step 1: Convert the 'Date' column from string to datetime format.
+2025-05-18 14:38:13,573 | INFO | DataCleaning | Step 2: Convert the 'Time' column from string to datetime format.
+2025-05-18 14:38:13,579 | INFO | DataCleaning | Step 3: Convert the 'Payment' column from string to category type.
+2025-05-18 14:38:13,583 | INFO | DataCleaning | Step 4: Convert the 'Payment' column from category to object format.
+2025-05-18 14:38:13,590 | INFO | DataCleaning | Step 5: Convert the 'Payment' column from string to category type.
+2025-05-18 14:38:13,594 | INFO | DataCleaning | Step 6: Convert the 'Payment' column from category to object format.
+2025-05-18 14:57:46,536 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 14:57:46,536 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 14:57:46,550 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 14:58:23,274 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 14:59:30,408 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 15:00:45,096 | INFO | DataCleaning | Data processing completed
+2025-05-18 15:00:45,119 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 15:00:45,121 | INFO | DataCleaning | Step 1: convert categorical features to numeric
+2025-05-18 15:00:45,126 | INFO | DataCleaning | Step 2: return back
+2025-05-18 15:00:50,407 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 15:00:50,408 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 15:00:50,421 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 15:01:15,039 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 15:01:41,465 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 15:02:31,047 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 15:02:51,000 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:04:36,024 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:04:36,050 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:04:36,055 | INFO | DataCleaning | Step 1: apply label encoder on categorical features
+2025-05-18 17:04:36,060 | INFO | DataCleaning | Step 2: apply label encoder on categorical features
+2025-05-18 17:04:45,012 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:04:45,013 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:04:45,041 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:05:08,059 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:05:27,928 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:05:32,681 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:08:44,738 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:08:44,762 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:12:20,812 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:12:20,812 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:12:20,826 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:12:44,506 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:13:58,973 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:14:27,792 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:14:47,675 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:14:54,831 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:15:49,787 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:16:17,378 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:16:52,637 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:16:52,663 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:16:52,669 | INFO | DataCleaning | Step 1: apply label encoder on category features
+2025-05-18 17:16:52,675 | INFO | DataCleaning | Step 2: delete ivoice id column
+2025-05-18 17:16:52,679 | INFO | DataCleaning | Step 4: standrdize float featues
+2025-05-18 17:16:52,686 | INFO | DataCleaning | Step 5: dro duplicated rows
+2025-05-18 17:35:42,246 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:35:42,247 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:35:42,261 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:36:09,451 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:36:31,394 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:36:31,416 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:36:31,418 | INFO | DataCleaning | Step 1: apply label encoder on categorical features
+2025-05-18 17:37:19,828 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:37:19,828 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:37:19,852 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:37:37,451 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:37:47,264 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:37:51,209 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:38:53,241 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:38:53,264 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:39:44,780 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:39:44,781 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:39:44,796 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:40:07,201 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:40:18,173 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:40:23,279 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:45:00,536 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:45:00,560 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:45:05,806 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 17:45:05,806 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 17:45:05,821 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 17:45:27,691 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 17:45:42,435 | INFO | DataCleaning | Data processing completed
+2025-05-18 17:45:42,457 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 17:45:42,459 | INFO | DataCleaning | Step 1: apply label encoder on categorical features
+2025-05-18 18:06:23,558 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:06:23,559 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:06:23,575 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:06:46,142 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:07:01,235 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:07:06,845 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:07:30,540 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:07:30,562 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:09:53,013 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:09:53,014 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:09:53,028 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:10:18,050 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:10:28,827 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:10:28,850 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:10:28,854 | INFO | DataCleaning | Step 1: apply label encoder on categorical attributes
+2025-05-18 18:15:37,232 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:15:37,232 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:15:37,245 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:15:39,300 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:16:11,233 | ERROR | GeminiAgent | Error generating response: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\code_conversion\code_executor.py", line 21, in execute_code
+    exec(code, globals(), local_dict)
+  File "<string>", line 1
+    Sure, please provide the instruction you want to convert into executable Python code. For example, you might want to filter rows where the `Rating` is greater than 7, or calculate the total revenue for each `Product line`.
+                                                                                    ^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\base\qwen_agent.py", line 160, in generate_response
+    response = self.chat_model.invoke(messages)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 371, in invoke
+    self.generate_prompt(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 956, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 775, in generate
+    self._generate_with_cache(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 1021, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 351, in _generate
+    response = self.completion_with_retry(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 276, in completion_with_retry
+    return _completion_with_retry(**kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 270, in _completion_with_retry
+    self._handle_status(response.status_code, response.text)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 465, in _handle_status
+    raise ChatDeepInfraException(
+langchain_community.chat_models.deepinfra.ChatDeepInfraException: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+
+2025-05-18 18:16:11,235 | ERROR | DataCleaning | Error during processing: expected string or bytes-like object
+2025-05-18 18:16:38,637 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:16:38,637 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:16:38,651 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:17:25,997 | ERROR | GeminiAgent | Error generating response: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\base\qwen_agent.py", line 160, in generate_response
+    response = self.chat_model.invoke(messages)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 371, in invoke
+    self.generate_prompt(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 956, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 775, in generate
+    self._generate_with_cache(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 1021, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 351, in _generate
+    response = self.completion_with_retry(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 276, in completion_with_retry
+    return _completion_with_retry(**kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 270, in _completion_with_retry
+    self._handle_status(response.status_code, response.text)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 465, in _handle_status
+    raise ChatDeepInfraException(
+langchain_community.chat_models.deepinfra.ChatDeepInfraException: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+
+2025-05-18 18:17:26,008 | ERROR | DataCleaning | Error during processing: expected string or bytes-like object
+2025-05-18 18:20:29,983 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:20:29,983 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:20:29,997 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:20:52,090 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:21:29,686 | ERROR | GeminiAgent | Error generating response: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\code_conversion\code_executor.py", line 21, in execute_code
+    exec(code, globals(), local_dict)
+  File "<string>", line 13, in <module>
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\series.py", line 4924, in apply
+    ).apply()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1427, in apply
+    return self.apply_standard()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\apply.py", line 1507, in apply_standard
+    mapped = obj._map_values(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\base.py", line 921, in _map_values
+    return algorithms.map_array(arr, mapper, na_action=na_action, convert=convert)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\algorithms.py", line 1743, in map_array
+    return lib.map_infer(values, mapper, convert=convert)
+  File "lib.pyx", line 2972, in pandas._libs.lib.map_infer
+  File "<string>", line 13, in <lambda>
+NameError: name 'le' is not defined
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\base\qwen_agent.py", line 160, in generate_response
+    response = self.chat_model.invoke(messages)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 371, in invoke
+    self.generate_prompt(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 956, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 775, in generate
+    self._generate_with_cache(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 1021, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 351, in _generate
+    response = self.completion_with_retry(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 276, in completion_with_retry
+    return _completion_with_retry(**kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 270, in _completion_with_retry
+    self._handle_status(response.status_code, response.text)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 465, in _handle_status
+    raise ChatDeepInfraException(
+langchain_community.chat_models.deepinfra.ChatDeepInfraException: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+
+2025-05-18 18:21:29,688 | ERROR | DataCleaning | Error during processing: expected string or bytes-like object
+2025-05-18 18:21:44,131 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:21:44,132 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:21:44,146 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:26:07,707 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:26:07,730 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:26:11,934 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:26:11,934 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:26:11,947 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:26:57,681 | ERROR | GeminiAgent | Error generating response: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\base\qwen_agent.py", line 160, in generate_response
+    response = self.chat_model.invoke(messages)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 371, in invoke
+    self.generate_prompt(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 956, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 775, in generate
+    self._generate_with_cache(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 1021, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 351, in _generate
+    response = self.completion_with_retry(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 276, in completion_with_retry
+    return _completion_with_retry(**kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 270, in _completion_with_retry
+    self._handle_status(response.status_code, response.text)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 465, in _handle_status
+    raise ChatDeepInfraException(
+langchain_community.chat_models.deepinfra.ChatDeepInfraException: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+
+2025-05-18 18:26:57,684 | ERROR | DataCleaning | Error during processing: expected string or bytes-like object
+2025-05-18 18:28:30,055 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:28:30,056 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:33:29,773 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:33:29,773 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:33:29,787 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:34:19,677 | ERROR | GeminiAgent | Error generating response: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\agents\base\qwen_agent.py", line 160, in generate_response
+    response = self.chat_model.invoke(messages)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 371, in invoke
+    self.generate_prompt(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 956, in generate_prompt
+    return self.generate(prompt_messages, stop=stop, callbacks=callbacks, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 775, in generate
+    self._generate_with_cache(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_core\language_models\chat_models.py", line 1021, in _generate_with_cache
+    result = self._generate(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 351, in _generate
+    response = self.completion_with_retry(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 276, in completion_with_retry
+    return _completion_with_retry(**kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 338, in wrapped_f
+    return copy(f, *args, **kw)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 477, in __call__
+    do = self.iter(retry_state=retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 378, in iter
+    result = action(retry_state)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 420, in exc_check
+    raise retry_exc.reraise()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 187, in reraise
+    raise self.last_attempt.result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 438, in result
+    return self.__get_result()
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\concurrent\futures\_base.py", line 390, in __get_result
+    raise self._exception
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\tenacity\__init__.py", line 480, in __call__
+    result = fn(*args, **kwargs)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 270, in _completion_with_retry
+    self._handle_status(response.status_code, response.text)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\langchain_community\chat_models\deepinfra.py", line 465, in _handle_status
+    raise ChatDeepInfraException(
+langchain_community.chat_models.deepinfra.ChatDeepInfraException: DeepInfra Server error status 500: {"error":{"message":"inference error"}}
+
+2025-05-18 18:34:19,680 | ERROR | DataCleaning | Error during processing: expected string or bytes-like object
+2025-05-18 18:39:38,471 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:39:38,472 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:39:38,487 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:39:50,042 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:40:05,016 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:40:05,041 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:40:05,044 | INFO | DataCleaning | Step 1: remove invoiceid column
+2025-05-18 18:40:34,523 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:40:34,523 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:40:34,537 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:41:06,015 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:41:23,644 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:41:28,069 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:42:21,849 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:42:34,722 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:42:38,635 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:42:44,865 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:42:44,889 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:42:49,290 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:42:49,290 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:42:49,305 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:43:06,183 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:43:21,625 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:43:25,908 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:43:54,014 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:43:54,037 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:44:02,596 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:44:02,597 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:44:02,610 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:44:12,710 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:44:31,427 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:44:56,363 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:44:56,384 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:44:56,387 | INFO | DataCleaning | Step 1: remove invoice id columns
+2025-05-18 18:44:56,393 | INFO | DataCleaning | Step 2: apply label encoder
+2025-05-18 18:52:08,145 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:52:08,145 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:52:08,160 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:52:21,041 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:52:45,399 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:52:56,270 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:52:59,303 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:53:48,362 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:54:20,410 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 18:54:34,279 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:54:34,300 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:54:34,304 | INFO | DataCleaning | Step 1: remove invoice id column
+2025-05-18 18:54:34,308 | INFO | DataCleaning | Step 3: not apply label encoder!
+2025-05-18 18:54:34,314 | INFO | DataCleaning | Step 4: apply label encoder
+2025-05-18 18:55:33,048 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:55:33,049 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:55:33,070 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:55:38,385 | INFO | DataCleaning | Data processing completed
+2025-05-18 18:55:38,408 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 18:55:42,943 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 18:55:42,943 | INFO | DataCleaning | Agent initialized successfully
+2025-05-18 18:55:42,956 | INFO | DataCleaning | Data loaded successfully
+2025-05-18 18:55:52,946 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 19:04:55,197 | INFO | DataCleaning | Data processing completed
+2025-05-18 19:04:55,230 | INFO | DataCleaning | Processed data saved to: cleaned_data.csv
+2025-05-18 19:04:55,236 | INFO | DataCleaning | Step 1: show the number of null values
+2025-05-18 19:05:01,263 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 19:05:01,280 | INFO | DataProcessor | Data loaded successfully
+2025-05-18 19:05:13,791 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 19:05:20,958 | INFO | DataProcessor | Data processing completed
+2025-05-18 19:05:20,986 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-18 19:05:20,986 | INFO | DataProcessor | Step 1: remove invoice id column
+2025-05-18 21:47:00,365 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 21:47:00,382 | INFO | DataProcessor | Data loaded successfully from data.csv
+2025-05-18 21:47:00,382 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-18 21:47:28,877 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 21:47:36,142 | INFO | DataProcessor | Data processing completed
+2025-05-18 21:47:36,177 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-18 21:47:36,177 | INFO | DataProcessor | Step 1: remove invoice id columns
+2025-05-18 23:21:40,547 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:22:00,222 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:22:25,670 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:22:34,291 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:22:42,027 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:22:42,164 | ERROR | DataCleaning | Error in processing pipeline: 'CodeConversionAgent' object has no attribute 'generate_code'
+2025-05-18 23:40:10,528 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:40:15,573 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:40:21,862 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:40:22,000 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:40:24,502 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:40:24,506 | ERROR | DataCleaning | Error in processing pipeline: DataProcessor.process_data() got an unexpected keyword argument 'custom_code'
+2025-05-18 23:44:27,225 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:44:32,507 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:44:39,386 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:44:39,527 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:44:42,126 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:44:42,149 | INFO | DataProcessor | Custom code processing completed
+2025-05-18 23:45:16,379 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:45:16,559 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:45:19,970 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:45:22,534 | ERROR | DataProcessor | Error during processing: name 'le' is not defined
+2025-05-18 23:45:22,536 | ERROR | DataCleaning | Processing error: name 'le' is not defined
+2025-05-18 23:46:17,103 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:46:20,405 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:46:20,409 | ERROR | DataProcessor | Error during processing: name 'le' is not defined
+2025-05-18 23:46:20,411 | ERROR | DataCleaning | Processing error: name 'le' is not defined
+2025-05-18 23:50:06,576 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:12,552 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:19,857 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:20,000 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:22,676 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:50:24,824 | INFO | DataProcessor | Custom code processing completed
+2025-05-18 23:50:38,783 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:39,069 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:50:41,873 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:50:41,920 | INFO | DataProcessor | Custom code processing completed
+2025-05-18 23:51:09,562 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:51:09,825 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:51:13,636 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:51:13,643 | INFO | DataProcessor | Custom code processing completed
+2025-05-18 23:51:51,836 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:51:52,089 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:51:54,931 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:51:54,933 | INFO | DataProcessor | Custom code processing completed
+2025-05-18 23:52:13,350 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:52:13,560 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:52:15,720 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:52:15,757 | ERROR | DataProcessor | Error during processing: time data "13:08" doesn't match format "%H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-18 23:52:15,759 | ERROR | DataCleaning | Processing error: time data "13:08" doesn't match format "%H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-18 23:59:17,379 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:59:23,676 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:59:31,082 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:59:31,229 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-18 23:59:33,838 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:59:38,351 | INFO | GeminiAgent | User input processed successfully.
+2025-05-18 23:59:38,374 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:00:22,641 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:00:22,863 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:00:26,406 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:00:26,421 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:01:05,560 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:01:05,741 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:01:08,653 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:01:08,657 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:02:16,531 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:02:16,733 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:02:19,348 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:02:19,352 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:02:29,096 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:02:29,160 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 00:15:14,213 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:20,224 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:27,603 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:27,749 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:30,468 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:15:32,821 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:15:41,563 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:41,728 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:44,438 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:15:44,475 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:15:49,262 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:15:49,326 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 00:15:59,860 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:16:19,049 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:21:36,304 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:21:43,435 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:21:52,681 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:21:52,859 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:21:55,207 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:21:55,212 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:21:55,435 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:22:18,539 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:22:18,753 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:22:21,887 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:22:21,906 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:22:22,083 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:22:35,496 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:22:38,665 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:22:40,913 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:22:40,914 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 00:22:40,914 | ERROR | DataCleaning | Processing error occurred
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\data_processor\processor.py", line 73, in process_data
+    exec(custom_code, namespace)
+  File "<string>", line 2, in <module>
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['invoice id'] not found in axis"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\main.py", line 111, in main
+    st.session_state.current_df = processor.process_data(
+  File "D:\IEssentials\Data Claening Automation\data_processor\processor.py", line 91, in process_data
+    exec(fixed_code, namespace)
+  File "<string>", line 2, in <module>
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['invoice id'] not found in axis"
+2025-05-19 00:23:05,325 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:14,856 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:15,049 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:18,337 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:23:20,611 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:23:20,623 | INFO | DataProcessor | Custom code processing completed
+2025-05-19 00:23:20,763 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:39,826 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:40,004 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:23:42,010 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:23:44,239 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:23:44,241 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 00:23:44,242 | ERROR | DataCleaning | Processing error occurred
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\data_processor\processor.py", line 73, in process_data
+    exec(custom_code, namespace)
+  File "<string>", line 2, in <module>
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['invoice id'] not found in axis"
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\IEssentials\Data Claening Automation\main.py", line 111, in main
+    st.session_state.current_df = processor.process_data(
+  File "D:\IEssentials\Data Claening Automation\data_processor\processor.py", line 91, in process_data
+    exec(fixed_code, namespace)
+  File "<string>", line 2, in <module>
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\frame.py", line 5581, in drop
+    return super().drop(
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4788, in drop
+    obj = obj._drop_axis(labels, axis, level=level, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\generic.py", line 4830, in _drop_axis
+    new_axis = axis.drop(labels, errors=errors)
+  File "C:\Users\LCT\AppData\Local\Programs\Python\Python310\lib\site-packages\pandas\core\indexes\base.py", line 7070, in drop
+    raise KeyError(f"{labels[mask].tolist()} not found in axis")
+KeyError: "['invoice id'] not found in axis"
+2025-05-19 00:30:03,292 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:10,274 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:16,937 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:17,139 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:19,975 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:30:19,980 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 00:30:20,218 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:26,211 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:29,209 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:30:33,312 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:30:33,315 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 00:30:33,473 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:46,275 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:46,478 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:49,760 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:30:49,962 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:57,879 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:30:58,128 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:31:01,003 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:31:03,576 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:31:03,807 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:31:14,947 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:07,086 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:07,320 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:07,524 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:19,314 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:19,603 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:19,886 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:20,033 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:23,926 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:24,077 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:26,779 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:33:26,799 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 00:33:26,932 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:41,848 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:42,006 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:48,223 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:50,552 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:50,900 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:51,017 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:33:51,173 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:02,135 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:08,238 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:19,803 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:20,029 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:21,559 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:42:21,561 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 00:42:21,718 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:28,059 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:28,268 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:30,004 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:42:31,509 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:42:31,645 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:41,156 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:41,392 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:42:43,357 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:42:43,503 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:05,369 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:05,873 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:18,864 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:19,037 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:23,573 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:43:28,244 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:47:08,860 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:50:20,343 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:50:27,395 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:50:27,448 | ERROR | DataCleaning | Error in processing pipeline: There are multiple `button` elements with the same auto-generated ID. When this element is created, it is assigned an internal ID based on the element type and provided parameters. Multiple elements with the same type and parameters will cause this error.
+
+To fix this error, please pass a unique `key` argument to the `button` element.
+2025-05-19 00:52:49,024 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:52:54,024 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:52:59,053 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:52:59,237 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:53:02,977 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:53:02,984 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 00:53:03,107 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:53:14,480 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:53:14,671 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:53:18,713 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:53:18,856 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:56:49,212 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:56:54,279 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:57:24,353 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:57:24,587 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:57:28,270 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:57:28,274 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 00:57:28,402 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:57:36,401 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:06,296 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:08,729 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:11,853 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:58:11,990 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:21,297 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:24,171 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:58:24,178 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 00:58:24,299 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:35,977 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:36,219 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:58:38,625 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:58:38,640 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 00:58:38,778 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:59:08,189 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:59:08,444 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 00:59:12,924 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 00:59:13,060 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:00:03,687 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:00:07,710 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:00:40,550 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:00:40,769 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:00:43,524 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:00:43,708 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:08:42,119 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:08:48,307 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:08:48,360 | ERROR | DataCleaning | Error in processing pipeline: FormMixin.form_submit_button() got an unexpected keyword argument 'key'
+2025-05-19 01:13:58,603 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:03,244 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:03,295 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:14:03,295 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:14:13,243 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:16,557 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:14:16,561 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:14:16,681 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:24,105 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:26,767 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:14:26,922 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:38,581 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:38,657 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 01:14:47,031 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:50,857 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:14:50,933 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 01:19:30,026 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:19:34,962 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:19:35,012 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:19:35,013 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:19:44,788 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:19:47,963 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:19:47,967 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:19:48,105 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:19:52,008 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:19:52,087 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 01:19:56,889 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:21:10,239 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:21:15,899 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:21:15,948 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:21:15,948 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:21:25,776 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:21:28,878 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:21:29,027 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:30:16,618 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:30:27,352 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:30:27,412 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:30:27,412 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:31:03,324 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:31:05,743 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:31:05,747 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:31:05,872 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:33:27,792 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:33:33,777 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:33:33,834 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:33:33,834 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:33:43,596 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:33:46,281 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:33:46,288 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:33:46,437 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:33:56,917 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:38:26,406 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:38:31,617 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:38:31,668 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:38:31,669 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:38:37,091 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:38:39,410 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:38:39,414 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:38:39,550 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:46:22,507 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:46:32,062 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:46:32,122 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:46:32,122 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:46:56,264 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:46:56,336 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 01:46:59,038 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:47:01,300 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 01:47:01,304 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 01:47:01,536 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:50:21,911 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:50:27,775 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 01:50:27,927 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 01:50:27,927 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 01:51:59,417 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 02:01:15,248 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 02:01:21,373 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 02:01:21,449 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 02:01:21,449 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 07:38:01,323 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:38:08,359 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:38:08,418 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 07:38:08,418 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 07:38:16,818 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:38:19,705 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:38:21,878 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 07:38:21,997 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:38:39,810 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:38:41,818 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:38:44,031 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:38:44,033 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 07:38:44,167 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:39:09,784 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:39:13,007 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:39:13,164 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:39:30,907 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:39:33,455 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:39:33,479 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 07:39:33,602 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:41:26,382 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:41:29,910 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:41:30,057 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:42:47,454 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:42:47,589 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 07:42:55,742 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:48:00,301 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:48:23,683 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:48:23,729 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 07:48:23,729 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 07:48:23,922 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:48:46,852 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:48:49,718 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:48:49,721 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 07:48:49,850 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:55:41,608 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:55:49,943 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:55:50,116 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 07:55:50,116 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 07:55:50,341 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:56:08,999 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:56:11,083 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:56:11,090 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 07:56:11,228 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:58:16,253 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:58:20,491 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:58:20,542 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 07:58:20,542 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 07:58:20,766 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:58:31,713 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 07:58:33,202 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 07:58:33,208 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 07:58:33,361 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:00:13,509 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:00:18,288 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:00:18,334 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:00:18,334 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:00:18,538 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:00:29,862 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:00:31,431 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:00:31,434 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:00:31,617 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:06:44,050 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:06:48,937 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:06:49,078 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:06:49,079 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:06:49,270 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:07:08,129 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:07:09,806 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:07:09,808 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:07:09,938 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:07:39,274 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:07:41,246 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:07:41,467 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:08:11,942 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:08:13,757 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:08:13,775 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 08:08:13,946 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:08:52,334 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:08:54,600 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:08:54,881 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:09:37,678 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:09:39,347 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:09:39,353 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 08:09:39,573 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:10:05,782 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:10:23,642 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:10:25,561 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:10:25,568 | INFO | DataProcessor | Operation attempted to remove columns: {'City'}
+2025-05-19 08:10:25,705 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:10:56,141 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:12:50,020 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:01,121 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:01,176 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:13:01,176 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:13:01,359 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:09,600 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:11,145 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:13:11,149 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:13:11,412 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:14,254 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:19,649 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:28,145 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:13:28,194 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:13:28,195 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:13:28,379 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:18:26,467 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:18:36,133 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:18:36,237 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:18:36,237 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:18:36,458 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:18:52,901 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:18:54,565 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:18:54,570 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:18:54,799 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:06,016 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:08,075 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:11,889 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:11,935 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:19:11,935 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:19:12,134 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:43,231 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:45,198 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:19:45,497 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:56,325 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:19:56,392 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:20:04,064 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:21:09,874 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:21:09,942 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:22:12,039 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:18,119 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:18,167 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:22:18,167 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:22:18,376 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:28,065 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:29,481 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:22:29,487 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:22:29,691 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:32,207 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:22:32,280 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:22:32,311 | ERROR | DataCleaning | Error in processing pipeline: module 'streamlit' has no attribute 'modal'
+2025-05-19 08:24:12,740 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:19,029 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:19,076 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:24:19,076 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:24:19,312 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:30,750 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:32,216 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:24:32,220 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:24:32,463 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:34,974 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:35,039 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:24:39,249 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:39,477 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:46,534 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:46,602 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:24:49,619 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:24:57,103 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:25:00,589 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:25:06,087 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:25:12,204 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:27,664 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:33,224 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:33,322 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:33:33,322 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:33:33,507 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:45,254 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:47,815 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:33:47,819 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:33:47,998 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:51,692 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:51,926 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:58,145 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:33:58,365 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:01,072 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:01,308 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:24,747 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:26,372 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:34:26,566 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:35,458 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:35,714 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:38,329 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:38,472 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 08:34:40,542 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:34:59,653 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:35:02,231 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:35:10,746 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:35:13,230 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:35:13,380 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:38:12,362 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:38:18,614 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:38:18,673 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:38:18,673 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:38:18,676 | ERROR | DataCleaning | Error loading file: module 'streamlit' has no attribute 'experimental_rerun'
+2025-05-19 08:46:35,640 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:46:40,453 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:46:40,525 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:46:40,526 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:46:40,532 | ERROR | DataCleaning | Error loading file: module 'streamlit' has no attribute 'experimental_rerun'
+2025-05-19 08:47:50,350 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:47:55,090 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:47:55,159 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:47:55,160 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:47:55,174 | ERROR | DataCleaning | Error loading file: module 'streamlit' has no attribute 'experimental_rerun'
+2025-05-19 08:59:20,370 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:59:25,858 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:59:25,939 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 08:59:25,939 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 08:59:26,176 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:59:44,463 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 08:59:47,230 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 08:59:50,263 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 08:59:50,420 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:31,848 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:34,925 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:00:35,134 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:47,656 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:47,897 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:49,584 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:49,810 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:55,132 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:00:55,277 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 09:00:57,779 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:06,863 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:07,144 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:09,128 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:09,391 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:12,010 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:12,263 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:16,464 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:16,590 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 09:01:18,635 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:27,017 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:27,289 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:38,087 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:40,520 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:01:44,364 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:07:51,761 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:07:57,939 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:07:57,992 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:07:57,993 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:07:58,178 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:09,935 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:11,767 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:08:11,771 | INFO | DataProcessor | Operation attempted to remove columns: {'gross margin percentage', 'gross income', 'cogs', 'Invoice ID'}
+2025-05-19 09:08:11,970 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:39,976 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:42,503 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:08:42,702 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:44,797 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:44,992 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:46,887 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:47,103 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:50,569 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:50,769 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:55,573 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:08:55,722 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 09:08:57,405 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:09:07,001 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:15:42,804 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:15:48,714 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:15:48,714 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:15:58,958 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:15:58,961 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:16:28,513 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:16:28,513 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:16:42,191 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:16:42,194 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:17:17,995 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:21:37,719 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:21:43,314 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:21:43,314 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:21:53,803 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:22:47,870 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:22:53,079 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:22:53,080 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:23:05,695 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:23:05,699 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:23:15,512 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:24:10,696 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:24:16,187 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:24:16,188 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:24:31,043 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:24:31,047 | INFO | DataProcessor | Operation attempted to remove columns: {'Product line', 'Branch', 'Gender', 'Rating', 'Customer type', 'Time', 'City', 'Tax 5%', 'gross income', 'cogs', 'Invoice ID', 'gross margin percentage', 'Payment', 'Date'}
+2025-05-19 09:24:55,525 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:25:44,298 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:25:54,776 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:25:54,797 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 09:26:18,258 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:27:09,630 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:27:38,143 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:27:42,805 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:27:42,805 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:27:52,364 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:34:12,602 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:34:17,566 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:34:17,567 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:34:25,757 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:34:25,758 | ERROR | DataProcessor | Error executing code: module 'signal' has no attribute 'SIGALRM'
+2025-05-19 09:34:52,783 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:34:52,784 | ERROR | DataProcessor | Error executing code: module 'signal' has no attribute 'SIGALRM'
+2025-05-19 09:35:24,895 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:35:30,237 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:35:30,237 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:35:43,787 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:35:43,793 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:36:37,341 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:42:17,615 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:42:23,764 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:42:23,815 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:42:23,815 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:42:24,010 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:42:30,469 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:42:31,825 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:42:31,830 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:42:32,004 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:50:00,708 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:50:12,170 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:50:12,229 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:50:12,229 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:50:12,437 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:50:18,848 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:50:20,450 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:50:36,364 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:51:35,313 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:51:41,377 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:51:41,455 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:51:41,456 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:51:41,808 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:51:52,237 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:51:53,978 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:51:53,981 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:51:54,162 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:57:00,139 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:57:06,085 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:57:06,127 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 09:57:06,127 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 09:57:06,342 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:57:16,984 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 09:57:18,548 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 09:57:18,552 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 09:57:18,750 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:10:49,165 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:31,712 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:36,922 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:37,001 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 10:26:37,001 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 10:26:37,249 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:45,625 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:47,245 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 10:26:47,248 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 10:26:47,408 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:54,375 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:54,656 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:56,993 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:26:59,081 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 10:27:01,423 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:09,383 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:16,497 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:16,565 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 13:45:16,566 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 13:45:16,793 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:33,246 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:35,105 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:45:35,107 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 13:45:35,251 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:51,284 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:45:52,534 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:45:53,848 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:45:53,850 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 13:45:54,005 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:46:14,164 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:46:16,086 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:46:17,755 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:46:17,756 | ERROR | DataProcessor | Error during processing: "['invoice id'] not found in axis"
+2025-05-19 13:46:17,907 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:46:42,696 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:46:46,387 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:46:46,542 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:46:56,619 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:47:02,467 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:47:02,669 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:47:23,281 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:47:24,955 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:47:26,378 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:47:26,380 | ERROR | DataProcessor | Error during processing: time data "13:08" doesn't match format "%H:%M:%S", at position 0. You might want to try:
+    - passing `format` if your strings have a consistent format;
+    - passing `format='ISO8601'` if your strings are all ISO8601 but not necessarily in exactly the same format;
+    - passing `format='mixed'`, and the format will be inferred for each element individually. You might want to use `dayfirst` alongside this.
+2025-05-19 13:47:26,518 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:48:22,878 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:48:25,018 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:48:25,167 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:48:53,461 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:48:55,351 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:48:55,355 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 13:48:55,519 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:49:21,644 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:49:23,198 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 13:49:23,206 | INFO | DataProcessor | Operation resulted in no changes to the data
+2025-05-19 13:49:23,339 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 13:50:10,360 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:00:44,566 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:00:45,656 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:00:46,374 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:01:11,068 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:01:15,455 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:01:15,504 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 14:01:15,505 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 14:01:15,653 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:01:24,246 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:01:27,122 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:01:38,115 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:02:09,362 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:02:09,523 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:02:12,856 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:02:13,079 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:05:22,509 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:26:27,332 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:31:14,882 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:32:37,571 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:32:37,635 | INFO | DataProcessor | Data loaded successfully from temp_data.csv
+2025-05-19 14:32:37,636 | INFO | DataProcessor | Shape of loaded data: (1000, 17)
+2025-05-19 14:32:37,800 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:04,338 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:05,756 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:33:08,097 | INFO | DataProcessor | Operation attempted to remove columns: {'Invoice ID'}
+2025-05-19 14:33:08,216 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:16,317 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:16,500 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:18,712 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:33:18,922 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:11,984 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:14,397 | INFO | GeminiAgent | User input processed successfully.
+2025-05-19 14:34:14,548 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:36,085 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:36,189 | INFO | DataProcessor | Processed data saved to: cleaned_data.csv
+2025-05-19 14:34:39,605 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:54,908 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:55,146 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:56,829 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:34:58,449 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:35:00,312 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:37:56,413 | INFO | GeminiAgent | QwenAgent initialized successfully.
+2025-05-19 14:39:11,585 | INFO | GeminiAgent | QwenAgent initialized successfully.
