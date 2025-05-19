@@ -34,5 +34,11 @@ ENV/
 .DS_Store
 Thumbs.db
 
+# Environment Variables
+.env
+.env.local
+.env.development
+.env.production
+
 # Streamlit
 .streamlit/
